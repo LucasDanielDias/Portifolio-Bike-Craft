@@ -35,3 +35,8 @@
 .bicicletas-lista li span {
   padding-left: 20px;
 }
+@media (max-width: 600px) {
+  .bicicletas-lista ul {
+    flex-wrap: wrap;
+  }
+}

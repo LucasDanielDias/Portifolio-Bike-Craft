@@ -1,4 +1,9 @@
-@import "./global.css/global.css";
-@import "./inicial.css/header.css";
-@import "./inicial.css/introducao.css";
-@import "./inicial.css/bicicletasLi.css";
+@import "./global/global.css";
+@import "./inicial/header.css";
+@import "./inicial/introducao.css";
+@import "./inicial/bicicletasLi.css";
+@import "./inicial/tecnologia.css";
+@import "./inicial/parceiros.css";
+@import "./inicial/depoimento.css";
+@import "./Seguros/seguros.css";
+@import "./inicial/footer.css";
