@@ -21,7 +21,8 @@ h2,
 h3,
 ul,
 P,
-blockquote {
+blockquote,
+dd {
   margin: 0px;
 }
 [src$=".jpg"] {
